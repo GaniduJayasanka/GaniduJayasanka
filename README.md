@@ -2,7 +2,6 @@
 
 <h3 align="center">A software Engineer from Sri Lanka</h3>
 
-<p align="left"> <a href="https://twitter.com/samuel_dev_" target="blank"><img src="https://img.shields.io/twitter/follow/samuel_dev_?logo=twitter&style=for-the-badge" alt="samuel_dev_" /></a> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=damdev1&label=Profile%20views&color=0e75b6&style=flat" alt="damdev1" /> </p>
 
