@@ -1,6 +1,6 @@
 
-
-<h3 align="center">A software Engineer from Sri Lanka</h3>
+<h1 align="center">Hi 👋, I'm Ganidu Jayasanka </h1>
+<h3 align="center">software Engineer </h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=damdev1&label=Profile%20views&color=0e75b6&style=flat" alt="damdev1" /> </p>
