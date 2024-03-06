@@ -1,4 +1,4 @@
-<img align="center" alt="Logo" device-width="auto"  src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif">  
+<img align="center" alt="Logo" device-width="auto" height="200" src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif">  
 
 
 <h1 align="center">Hi 👋, I'm Ganidu Jayasanka </h1>
